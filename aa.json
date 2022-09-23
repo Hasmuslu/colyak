@@ -1,0 +1,32 @@
+[
+  {
+    "isim": "Glutensiz Borek",
+    "Malzemeler":"a",
+    "yapilisi":"b",
+    "resim": "aa.jpg"
+  },
+  {
+    "isim": "Glutensiz et",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "aa.png"
+  },
+  {
+    "isim": "Kebap",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "aa.jpg"
+  },
+  {
+    "isim": "Poðaca",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "aa.png"
+  },
+  {
+    "isim": "Çorti",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "aa.jpg"
+  }
+]
