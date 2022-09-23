@@ -1,32 +1,32 @@
 [
   {
     "isim": "Glutensiz Borek",
-    "Malzemeler":"a",
-    "yapilisi":"b",
-    "resim": "aa.jpg"
+    "Malzemeler": "a",
+    "yapilisi": "b",
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.png"
   },
   {
     "isim": "Glutensiz et",
     "Malzemeler": "v",
     "yapilisi": "d",
-    "resim": "aa.png"
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
   },
   {
     "isim": "Kebap",
     "Malzemeler": "v",
     "yapilisi": "d",
-    "resim": "aa.jpg"
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
   },
   {
     "isim": "Poðaca",
     "Malzemeler": "v",
     "yapilisi": "d",
-    "resim": "badem.png"
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
   },
   {
     "isim": "Çorti",
     "Malzemeler": "v",
     "yapilisi": "d",
-    "resim": "aa.jpg"
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
   }
 ]
