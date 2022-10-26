@@ -1,32 +1,32 @@
 [
   {
     "isim": "Glutensiz Borek",
-    "Malzemeler":  "1 paket pirinç yufkasý \n 1 paket bitkisel süt" ,
+    "Malzemeler": "1 paket pirinç yufkasý 1 paket bitkisel süt",
     "yapilisi": "1.Önce sütü, sývý yaðý ve kabartma tozunu düz ve geniþ bir kapta karýþtýrýyoruz. Ýçine pirinç yufkalarýný ekleyip yumuþamaya býrakýyoruz./n 2.Ayrý bir tavada rendelenmiþ soðaný, patatesi ve tüm baharatlarý çok az yaðda 2 dakika karýþtýrarak kavuruyoruz.",
     "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/borek.jpg"
   },
   {
     "isim": "Glutensiz et",
-    "Malzemeler": "a" ,
-      "yapilisi": "d",
-      "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
-    },
-    {
-      "isim": "Kebap",
-      "Malzemeler": "v",
-      "yapilisi": "d",
-      "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
-    },
-    {
-      "isim": "Poðaca",
-      "Malzemeler": "v",
-      "yapilisi": "d",
-      "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
-    },
-    {
-      "isim": "Çorti",
-      "Malzemeler": "v",
-      "yapilisi": "d",
-      "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
-    }
+    "Malzemeler": "a",
+    "yapilisi": "d",
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
+  },
+  {
+    "isim": "Kebap",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
+  },
+  {
+    "isim": "Poðaca",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/aa.jpg"
+  },
+  {
+    "isim": "Çorti",
+    "Malzemeler": "v",
+    "yapilisi": "d",
+    "resim": "https://raw.githubusercontent.com/Hasmuslu/colyak/main/badem.png"
+  }
 ]
