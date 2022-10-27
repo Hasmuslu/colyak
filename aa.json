@@ -2,13 +2,13 @@
   {
     "isim": "Glutensiz Borek",
     "Malzemeler":"1 paket pirinç yufkası 1 paket bitkisel süt",
-    "yapilisi": ["1.Önce sütü, sıvı yağı v","e kabartma tozunu","düz ve geniş bir kapta karıştırıyoruz. İçine pirinç yufkalarını ekleyip"],
+    "yapilisi": "1.Önce sütü, sıvı yağı v","e kabartma tozunu düz ve geniş bir kapta karıştırıyoruz. İçine pirinç yufkalarını ekleyip",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/borek.jpg"
   },
   {
     "isim": "Glutensiz et",
     "Malzemeler": "alişşş", 
-    "yapilisi": "Mehmet Can Arslan",
+    "yapilisi": "d",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/badem.png"
   },
   {
