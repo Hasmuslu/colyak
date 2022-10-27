@@ -1,13 +1,13 @@
 [
   {
     "isim": "Glutensiz Borek",
-    "Malzemeler": "1 paket pirinç yufkasý                      1 paket bitkisel süt",
+    "Malzemeler": { "1 paket pirinç yufkasý 1 paket bitkisel süt"},
     "yapilisi": "1.Önce sütü, sývý yaðý ve kabartma tozunu düz ve geniþ bir kapta karýþtýrýyoruz. Ýçine pirinç yufkalarýný ekleyip yumuþamaya býrakýyoruz./n 2.Ayrý bir tavada rendelenmiþ soðaný, patatesi ve tüm baharatlarý çok az yaðda 2 dakika karýþtýrarak kavuruyoruz.",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/borek.jpg"
   },
   {
     "isim": "Glutensiz et",
-    "Malzemeler": "a",
+    "Malzemeler": "aliþ",
     "yapilisi": "d",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/badem.png"
   },
