@@ -1,13 +1,13 @@
 [
   {
     "isim": "Glutensiz Borek",
-    "Malzemeler":"1 paket pirinç yufkası 1 paket bitkisel süt",
-    "yapilisi": "1.Önce sütü, sıvı yağı ve kabartma tozunu düz ve geniş bir kapta karıştırıyoruz. İçine pirinç yufkalarını ekleyip yumuşamaya bırakıyoruz./n 2.Ayrı bir tavada rendelenmiş soğanı, patatesi ve tüm baharatları çok az yağda 2 dakika karıştırarak kavuruyoruz.",
+    "Malzemeler":"1 paket pirinÃ§ yufkasÄ± 1 paket bitkisel sÃ¼t",
+    "yapilisi": "1.Ã–nce sÃ¼tÃ¼, sÄ±vÄ± yaÄŸÄ± ve kabartma tozunu dÃ¼z ve geniÅŸ bir kapta karÄ±ÅŸtÄ±rÄ±yoruz. Ä°Ã§ine pirinÃ§ yufkalarÄ±nÄ± ekleyip yumuÅŸamaya bÄ±rakÄ±yoruz./n 2.AyrÄ± bir tavada rendelenmiÅŸ soÄŸanÄ±, patatesi ve tÃ¼m baharatlarÄ± Ã§ok az yaÄŸda 2 dakika karÄ±ÅŸtÄ±rarak kavuruyoruz.",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/borek.jpg"
   },
   {
     "isim": "Glutensiz et",
-    "Malzemeler": "aliş", 
+    "Malzemeler": "aliÅŸÅŸÅŸ", 
     "yapilisi": "d",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/badem.png"
   },
@@ -18,13 +18,13 @@
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/aa.jpg"
   },
   {
-    "isim": "Poğaca",
+    "isim": "PoÄŸaca",
     "Malzemeler": "v",
     "yapilisi": "d",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/aa.jpg"
   },
   {
-    "isim": "Çorti",
+    "isim": "Ã‡orti",
     "Malzemeler": "v",
     "yapilisi": "d",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/badem.png"
