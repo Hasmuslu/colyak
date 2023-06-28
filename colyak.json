@@ -7,19 +7,19 @@
   },
   {
     "isim": "Şekersiz Diyet Puding",
-    "Malzemeler":"1/2 olgun avokado, 1/2 olgun avokado, 1 yemek kaşığı kakao, 1 tatlı kaşığı tarçın SÜSLEMEK İÇİN : Hindistan cevizi ve çilek",
-    "yapilisi": "1.İlk olarak avokado, muz, kakao ve tarçını blenderdan geçirin.                                                             2.Ardından boş bir kaseye alarak kıvam alıncaya kadar karıştırın.                                                                           3.Üzeri çilek dilimlerini 4 parçaya bölün. Hazırladığınız pudingi kaselere paylaştırdıktan sonra, üzerini çilek ve hindistan cevizi ile süsleyin.",
+    "Malzemeler":"1/2 olgun avokado\n1/2 olgun avokado\n1 yemek kaşığı kakao\n1 tatlı kaşığı tarçın\n\nSÜSLEMEK İÇİN :\nHindistan cevizi ve çilek",
+    "yapilisi": "1.İlk olarak avokado, muz, kakao ve tarçını blenderdan geçirin.\n2.Ardından boş bir kaseye alarak kıvam alıncaya kadar karıştırın.\n3.Üzeri çilek dilimlerini 4 parçaya bölün. Hazırladığınız pudingi kaselere paylaştırdıktan sonra, üzerini çilek ve hindistan cevizi ile süsleyin.",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/puding.png"
   },
   {
     "isim": "Peppy Brownie",
-    "Malzemeler":"3 adet yumurta, 3 adet orta boy muz (Çok olgun), 2.5 su bardağı hindistan cevizi (Badem unu veya fındık unu da olabilir), 1 çay kaşığı karbonat veya kabartma tozu, 1 su bardağı süt, 4 yemek kaşığı kakao. SOSU İÇİN: 80 g bitter çikolata, 1/2 çay bardağı süt",
-    "yapilisi": "1. Muzları bir çatal yardımıyla ezin. Muzlar çok olgun değil ise şekeri az geleceği için muzları ezerken 2 yemek kaşığı bal veya hurma özü veya pekmez de kullanabilirsiniz.                                                                                                  2.Daha sonra diğer malzemeleri ekleyin ve homojen bir kıvam elde edene kadar karıştırarak çırpın.                                           3.Küçük bir borcama aktarın ve önceden ısıtılmış 170 derecedeki fırında 25-30 dakika süreyle pişirin. Ilık servis edin.",
+    "Malzemeler":"3 adet yumurta\n3 adet orta boy muz (Çok olgun)\n2.5 su bardağı hindistan cevizi (Badem unu veya fındık unu da olabilir)\n1 çay kaşığı karbonat veya kabartma tozu\n1 su bardağı süt\n4 yemek kaşığı kakao.\n\nSOSU İÇİN:\n80 g bitter çikolata\n1/2 çay bardağı süt",
+    "yapilisi": "1. Muzları bir çatal yardımıyla ezin. Muzlar çok olgun değil ise şekeri az geleceği için muzları ezerken 2 yemek kaşığı bal veya hurma özü veya pekmez de kullanabilirsiniz.\n2.Daha sonra diğer malzemeleri ekleyin ve homojen bir kıvam elde edene kadar karıştırarak çırpın.\n3.Küçük bir borcama aktarın ve önceden ısıtılmış 170 derecedeki fırında 25-30 dakika süreyle pişirin. Ilık servis edin.",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/brownie.png"
   },
   {
     "isim": "Krepyoka Pizzası",
-    "Malzemeler":"2 yumurta, 2 yemek kaşığı mısır unu veya tapyoka (glutensiz nişasta), Peynir veya mozzarella, Domates, Tuz ve kekik",
+    "Malzemeler":"2 yumurta\n2 yemek kaşığı mısır unu veya tapyoka (glutensiz nişasta)\nPeynir veya mozzarella\nDomates, Tuz ve kekik",
     "yapilisi": "1.Yumurtaları bir kabın içine kırın ve üzerine unu veya nişastayı ekleyip çırpın.                                                2.Bir tatlı kaşığı zeytinyağı eklediğiniz tavaya karışımı dökün.                                                                        3.Pişerken, peynir dilimlerini, küp küp doğradığınız domatesleri ve baharatlarınızı ekleyin.",
     "resim": "https://raw.githubusercontent.com/arslncanm/colyak/main/pizza.png"
   },
